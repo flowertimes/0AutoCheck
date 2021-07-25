@@ -30,8 +30,3 @@ API_KEY 和 API_SECRET 获取方法见 [API获取](./API获取.md)
 这个脚本是 每天早上6点 自动执行，想要修改可以更改 [.github/workflows/zero-org-check.yml](./.github/workflows/zero-org-check.yml) 文件的 `- cron: '0 22 * * *`
  部分
 
-### 有问题欢迎提 issue
-
-## 鸣谢
-+ https://github.com/0-Xyao/Zero-box/tree/main/文库签到脚本
-+ 感谢[果果同学](https:///github.com/imguoguo)提供的star触发action方式建议，一直在想怎样才能简单点
